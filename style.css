@@ -1,0 +1,26 @@
+body {
+    background-color: #b361f2;
+    color: #321845;
+}
+
+
+.heading {
+    width: 80%;
+    font-size: 21px;
+    border: 5px #321845;
+    border-radius: 5px;
+}
+
+#resultObjectName , #resultObjectAccuracy {
+
+font-size: 21px;
+color: rgb(212, 247, 208);
+
+}
+
+#camera {
+
+
+width: 280px;
+height: 350px;
+}
